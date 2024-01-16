@@ -2,6 +2,7 @@ name: Hello World
 
 on:
   workflow_dispatch:
+    branch: 0_course_start
 
 jobs:
   print-hello-world:
